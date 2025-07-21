@@ -8,6 +8,7 @@
 </div>
 
 ###
+<img align="right" alt="" height="190px" src="./src/Tech Computer GIF by nclas.gif">
 
 <h3 align="left">My Stack ~</h3>
 
