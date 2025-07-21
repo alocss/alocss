@@ -43,12 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/angelicaweiler/angelicaweiler/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/angelicaweiler/count.svg?"  />
-</div>
+<img src="https://raw.githubusercontent.com/alocss/alocss/output/snake.svg" alt="Snake animation" />
 
 ###
