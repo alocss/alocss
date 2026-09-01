@@ -1,53 +1,67 @@
-<h2 align="center">Olá! Sejam bem vindos ao meu Github!</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alocss&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="400" width="320"  alt="languages graph"  />
-  <img align="right" alt="" height="170px" width="350" src="./src/Tech Computer GIF by nclas.gif">
-
-</div>
-
-###
-<h3 align="left">My Stack </h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="pyton logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-</div>
-
-###
-<h3 align="left">Connect with me!</h3>
-
-<div align="left">
-  <a href="https://www.instagram.com/alexribeiro/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/alexribeiro-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
+Olá, eu sou Alex Ribeiro 👋
+Desenvolvedor Full Stack Júnior · Java & Spring Boot · React · TypeScript  
+Graduando em Análise e Desenvolvimento de Sistemas · 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alexribeiro--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexribeiro-dev)
+---
+🚀 Sobre mim
+Sou desenvolvedor com foco em Java + Spring Boot e experiência crescente com React e TypeScript.  
+Gosto de construir software com contexto de negócio real — já desenvolvi sistemas para operações portuárias, gestão de estoque, delivery e agendamento de tarefas.
+Atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio e sempre aprendendo na prática.
+---
+🛠️ Stack
+Backend  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+---
+Frontend  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+---
+Banco de dados & Dados  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+---
+DevOps & Ferramentas  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+---
+📌 Projetos em Destaque
+agendador-tarefas  
+Microsserviço de agendamento com CI/CD via GitHub Actions, testes JUnit/Mockito e integração entre serviços (BFF, Notificação, Usuário).  
+`Java 17` `Spring Boot` `Gradle` `GitHub Actions`
+---
+Burguer_App  
+Sistema de delivery completo com catálogo, checkout, painel admin, autenticação segura (Argon2id, CSRF, rate limiting) e deploy via Docker/EasyPanel.  
+`PHP 8.3` `MySQL 8` `Docker` `Docker Compose`
+---
+porto-operacional  
+Sistema de controle de operações portuárias com painel de indicadores.  
+`TypeScript`
+---
+portfolio  
+Portfólio pessoal publicado via GitHub Pages.  
+`HTML` `CSS` `JavaScript`
+---
+Desafio_Power_bi_analyst  
+Projeto de análise de dados com Power BI, importação do MySQL via Azure e transformação para dashboards.  
+`Power BI` `MySQL` `Azure`
+---
+📚 Formação & Certificações
+🎓 Análise e Desenvolvimento de Sistemas — Estácio (em andamento)    
+📜 Desenvolvimento BackEnd  Com Java   
+📜 Desenvolvimento Frontend — Descomplica Faculdade Digital    
+📜 Desenvolvimento Web com Python e Django — DIO  
+📜 Santander Bootcamp - Ciência de Dados com Python  
+📜 Power BI Analyst — DIO  
+📜 Metodologias Ágeis — Scrum & Kanban 
+---
+📬 Contato
+Estou aberto a oportunidades de estágio e vagas júnior em desenvolvimento backend ou full stack.
+[![LinkedIn](https://img.shields.io/badge/Fala_comigo_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexribeiro-dev)
